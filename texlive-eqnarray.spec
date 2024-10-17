@@ -3,7 +3,7 @@ Version:	20641
 Release:	2
 Summary:	More generalised equation arrays with numbering
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eqnarray
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eqnarray
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqnarray.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqnarray.doc.r%{version}.tar.xz
